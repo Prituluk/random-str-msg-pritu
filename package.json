@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-pritu",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-pritu": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
